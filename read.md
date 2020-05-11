@@ -5,7 +5,7 @@ PSM Service flag instruction
 
 step 1 : create a folder using the name of the project / installation using [installation name]
 
-step 2 : create "dscpt.issue", ascii file, or otherwise use any file format 
+step 2 : create [dscpt.issue], ascii file, or otherwise use any file format 
 
 step 3 : create [dscpt.analysis]
 
