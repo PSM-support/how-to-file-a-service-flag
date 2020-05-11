@@ -3,7 +3,7 @@ PSM Service flag instruction
 
 ## How to raise a service flag
 
-step 1 : create a folder using the name of the project / installation using [installation name]
+step 1 : create a repository using the name of the project / installation using [installation name]
 
 step 2 : create [dscpt.issue], ascii file, or otherwise use any file format 
 
